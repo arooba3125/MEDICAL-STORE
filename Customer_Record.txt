@@ -1,0 +1,64 @@
+Customer Name: arooba
+Customer Contact: 03105530727
+Medicine Name: panadol
+--------------------------------------------
+Customer Name: laiba
+Customer Contact: 03035704107
+Medicine Name: Amoxal
+--------------------------------------------
+Customer Name: huzaifa
+Customer Contact: 03337653427
+Medicine Name: brufin
+--------------------------------------------
+Customer Name: asma
+Customer Contact: 03457854367
+Medicine Name: Amoxal
+--------------------------------------------
+Customer Name: Afia
+Customer Contact: 03456375243
+Medicine Name: brufin
+--------------------------------------------
+Customer Name: Zumar
+Customer Contact: 03338765478
+Medicine Name: brufin
+--------------------------------------------
+Customer Name: Arooba
+Customer Contact: 03325674536
+Medicine Name: brufin
+--------------------------------------------
+Customer Name: Asma
+Customer Contact: 03457364578
+Medicine Name: brufin
+--------------------------------------------
+Customer Name: Arooba
+Customer Contact: 03298374653
+Medicine Name: Amoxal
+--------------------------------------------
+Customer Name: Asma
+Customer Contact: 03107465678
+Medicine Name: brufin
+--------------------------------------------
+Customer Name: Alina
+Customer Contact: 03124532245
+Medicine Name: Azomax
+--------------------------------------------
+Customer Name: Arooba
+Customer Contact: 031256857865
+Medicine Name: Azomax
+--------------------------------------------
+Customer Name: Eman
+Customer Contact: 03125646786
+Medicine Name: Azomax
+--------------------------------------------
+Customer Name: Alina
+Customer Contact: 031156374563
+Medicine Name: Amoxal
+--------------------------------------------
+Customer Name: Daniyal
+Customer Contact: 03125678908
+Medicine Name: Amoxal
+--------------------------------------------
+Customer Name: Hafsa
+Customer Contact: 03215637354
+Medicine Name: Sustain
+--------------------------------------------
